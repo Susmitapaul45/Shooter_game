@@ -1,1 +1,1 @@
-Simple Plane Shooter gane using Python.
+Simple Plane Shooter game using Python.
